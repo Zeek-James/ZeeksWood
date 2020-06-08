@@ -1,0 +1,45 @@
+{
+    "items": [
+        {
+            "sys": {"id": "1"},
+            "fields": {
+                "title": "queen panel bed",
+                "price": 100,
+                "image": {"fields": { "file": { "url": "/Picture 018.jpg"} } }
+            }
+        },
+        {
+            "sys": {"id": "2"},
+            "fields": {
+                "title": "queen panel bed",
+                "price": 11500,
+                "image": {"fields": { "file": { "url": "Picture 018.jpg"} } }
+            }
+        },
+        {
+            "sys": {"id": "3"},
+            "fields": {
+                "title": "queen panel bed",
+                "price": 100,
+                "image": {"fields": { "file": { "url": "./Picture 018.jpg"} } }
+            }
+        },
+        {
+            "sys": {"id": "4"},
+            "fields": {
+                "title": "queen panel bed",
+                "price": 100,
+                "image": {"fields": { "file": { "url": "./Picture 018.jpg"} } }
+            }
+        },
+        {
+            "sys": {"id": "5"},
+            "fields": {
+                "title": "queen panel bed",
+                "price": 100,
+                "image": {"fields": { "file": { "url": "./Picture 018.jpg"} } }
+            }
+        }
+        
+    ]
+}
